@@ -1,7 +1,8 @@
 <!DOCKTYPE html>
 <html>
   <head>
-    <title> Helo blabla
+    <title>
+      Helo blabla
     </title>
   </head>
 <body>
